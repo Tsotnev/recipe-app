@@ -1,0 +1,117 @@
+body{margin: 0;
+padding: 0;}
+
+.topimage{width: 375px;
+    height: 171px;
+    gap: 0px;
+    opacity: 0px;
+    }
+
+.text-content{width: Fill (375px);
+    height: Hug (1,872px);
+    padding: 40px 32px 40px 32px;
+    gap: 32px;
+    opacity: 0px;
+}
+.titletxt{width: 311px;
+    height: 72px;
+    gap: 0px;
+    opacity: 0px;
+    }
+    .titletxt h1{font-family: Young Serif;
+        font-size: 36px;
+        font-weight: 600;
+        line-height: 36px;
+        text-align: left;
+        color: rgba(49, 46, 44, 1);
+        }
+
+    .titlesmtxt{width: 311px;
+        height: 120px;
+        gap: 0px;
+        opacity: 0px;
+        }
+        .titlesmtxt p{
+            font-family: Outfit;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            text-align: left;
+            color: rgba(95, 86, 77, 1);
+
+            }
+
+            .preparation{width: Fill (311px);
+                height: Hug (196px);
+                padding: 24px 0px 0px 0px;
+                gap: 16px;
+                border-radius: 12px 0px 0px 0px;
+                opacity: 0px;
+                background: rgba(255, 247, 251, 1);
+                }
+
+                .preph1{width: 263px;
+                    height: 20px;
+                    gap: 0px;
+                    opacity: 0px;
+                    font-family: Outfit;
+                    font-size: 20px;
+                    font-weight: 600;
+                    line-height: 20px;
+                    text-align: left;
+                    color: rgba(122, 40, 78, 1);
+                    margin-left: 24px;
+                }
+
+                .preplist{width: Fill (263px);
+                    height: Hug (112px);
+                    gap: 8px;
+                    opacity: 0px;
+                    padding-bottom: 8px;
+                    }
+
+                    .preplist li::marker{ color:rgba(122, 40, 78, 1) ;
+                    }
+
+                    .preplist b{font-family: Outfit;
+                        font-size: 16px;
+                        font-weight: 700;
+                        line-height: 24px;
+                        text-align: left;
+                        }
+
+                        .preplist span{
+                            font-family: Outfit;
+                            font-size: 16px;
+                            font-weight: 400;
+                            line-height: 24px;
+                            text-align: left;
+                            }
+
+                            .ingredients{width: Fill (311px);
+                                height: Hug (228px);
+                                gap: 24px;
+                                opacity: 0px;
+                                margin-top: 20px;
+                                }
+
+                                .ingh1{width: 311px;
+                                    height: 28px;
+                                    gap: 0px;
+                                    opacity: 0px;
+                                    font-family: Young Serif;
+                                    font-size: 28px;
+                                    font-weight: 400;
+                                    line-height: 28px;
+                                    text-align: left;
+                                    color: rgba(133, 70, 50, 1);
+                                    }
+
+                                    .inglist{width: Fill (311px);
+                                        height: Hug (176px);
+                                        gap: 20px;
+                                        opacity: 0px;
+                                        }
+                                        
+                                        .inglist li::marker{color: rgba(133, 70, 50, 1);}
+                                        .inglist ul{padding-left: 18px;}
