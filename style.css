@@ -140,7 +140,6 @@ padding: 0;}
                                             .instructionh1 h1{width: 311px;
                                                 height: 28px;
                                                 gap: 0px;
-                                                opacity: 0px;
                                                 font-family: Young Serif;
                                                 font-size: 28px;
                                                 font-weight: 400;
@@ -148,3 +147,93 @@ padding: 0;}
                                                 text-align: left;
                                                 color: rgba(133, 70, 50, 1);
                                                 }
+
+                                                .instlist li{
+                                                    font-family: Outfit;
+                                                    font-size: 16px;
+                                                    font-weight: 700;
+                                                    line-height: 24px;
+                                                    text-align: left;
+                                                    font-family: Outfit;
+                                                    font-size: 16px;
+                                                    font-weight: 400;
+                                                    line-height: 24px;
+                                                    text-align: left;
+                                                    color: rgba(95, 86, 77, 1);
+                                                    }
+
+                                                    .instlist ol{padding: 0px;
+                                                    margin-left: 20px;
+                                                    }
+
+                                                    .instlist li::marker{color: rgba(133, 70, 50, 1);
+                                                        font-size: 16px;
+                                                        font-weight: 700;
+                                                        line-height: 24px;
+                                                        text-align: left;
+                                                    }
+
+                                                    .nutrition{width: Fill (311px)px;
+                                                        height: Hug (292px)px;
+                                                        gap: 24px;
+                                                        opacity: 0px;
+                                                        }
+
+                                                        .nutritionh1 h1{width: 311px;
+                                                            height: 28px;
+                                                            gap: 0px;
+                                                            font-family: Young Serif;
+                                                            font-size: 28px;
+                                                            font-weight: 400;
+                                                            line-height: 28px;
+                                                            text-align: left;
+                                                            color: rgba(133, 70, 50, 1);
+                                                            }
+
+                                                            .nutritiontxt{width: 311px;
+                                                                height: 48px;
+                                                                font-family: Outfit;
+                                                                font-size: 16px;
+                                                                font-weight: 400;
+                                                                line-height: 24px;
+                                                                text-align: left;
+                                                                color: rgba(95, 86, 77, 1);
+                                                                margin-bottom: 10px;
+                                                                }
+        .table{width: Fill (311px);
+            height: Hug (168px);
+            gap: 12px;
+            }
+
+            .linefortable{width: 220px;
+                height: 24px;
+                padding: 10px 32px 10px 32px;
+                gap: 16px;
+                display: flex;
+                justify-content: space-around;
+                }
+
+                .txtforline{text-align: start;
+                width: 100px;
+            align-items: center;
+        display: flex;
+        font-family: Outfit;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        text-align: left;
+        color: rgba(95, 86, 77, 1);
+    }
+        
+
+                .numforline{text-align: start;
+                width: 100px;
+            align-items: center;
+        display: flex;
+        font-family: Outfit;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        text-align: left;
+        color: rgba(133, 70, 50, 1);
+    }
