@@ -394,6 +394,8 @@ h1:hover{cursor: pointer;
 font-size: 35px;
 transition: 0.5s;}
 
+.preph1 h1:hover{transition: 1.2s;}
+
 .titletxt h1:hover{font-size: 40px;
 color: rgb(255, 208, 0);}
 
